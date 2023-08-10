@@ -5,13 +5,13 @@
 The Just Noticeable Difference Survey App is a Python GUI application designed to conduct surveys related to the Just Noticeable Difference (JND) between two images. This app provides a platform for users to view pairs of images and determine if there is a noticeable difference between them, contributing to research in visual perception and human cognition.
 
 # Features
-Image Comparison: Participants are presented with pairs of images and asked to determine if there is a noticeable difference between them.
+✅ Image Comparison: Participants are presented with pairs of images and asked to determine if there is a noticeable difference between them.
 
-Randomization: The order of image pairs is randomized to minimize bias.
+✅ Randomization: The order of image pairs is randomized to minimize bias.
 
-Data Collection: Responses are collected and stored for analysis, helping to understand perceptual thresholds.
+✅ Data Collection: Responses are collected and stored for analysis, helping to understand perceptual thresholds.
 
-Visualizations: Visualize the collected data using graphs and charts to gain insights into perceptual sensitivity.
+✅ Visualizations: Visualize the collected data using graphs and charts to gain insights into perceptual sensitivity. ( Need to be done)
 
 # Getting Started
 Follow these instructions to set up and use the Just Noticeable Difference Survey App on your local machine.
